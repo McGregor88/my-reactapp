@@ -1,0 +1,51 @@
+2017/05/24-22:06:41.006 5032 Reusing MANIFEST c:\OpenServer\domains\my-reactapp\.vscode\chrome\Default\Session Storage/MANIFEST-000001
+2017/05/24-22:06:41.007 5032 Recovering log #3
+2017/05/24-22:06:41.029 5032 Reusing old log c:\OpenServer\domains\my-reactapp\.vscode\chrome\Default\Session Storage/000003.log 
+2017/05/24-22:12:07.265 6020 Level-0 table #5: started
+2017/05/24-22:12:07.280 6020 Level-0 table #5: 70092 bytes OK
+2017/05/24-22:12:07.282 6020 Delete type=0 #3
+2017/05/24-22:15:05.016 6020 Level-0 table #7: started
+2017/05/24-22:15:05.028 6020 Level-0 table #7: 101894 bytes OK
+2017/05/24-22:15:05.031 6020 Delete type=0 #4
+2017/05/24-22:15:19.612 6020 Level-0 table #9: started
+2017/05/24-22:15:19.628 6020 Level-0 table #9: 466645 bytes OK
+2017/05/24-22:15:19.631 6020 Delete type=0 #6
+2017/05/24-22:16:23.251 6020 Level-0 table #11: started
+2017/05/24-22:16:23.274 6020 Level-0 table #11: 466769 bytes OK
+2017/05/24-22:16:23.276 6020 Delete type=0 #8
+2017/05/24-22:21:12.593 6020 Level-0 table #13: started
+2017/05/24-22:21:12.611 6020 Level-0 table #13: 214101 bytes OK
+2017/05/24-22:21:12.613 6020 Delete type=0 #10
+2017/05/24-22:35:38.982 6020 Level-0 table #15: started
+2017/05/24-22:35:38.993 6020 Level-0 table #15: 99220 bytes OK
+2017/05/24-22:35:38.995 6020 Delete type=0 #12
+2017/05/24-22:35:38.997 6020 Compacting 4@0 + 1@1 files
+2017/05/24-22:35:39.091 6020 Generated table #16@0: 319 keys, 1348138 bytes
+2017/05/24-22:35:39.091 6020 Compacted 4@0 + 1@1 files => 1348138 bytes
+2017/05/24-22:35:39.093 6020 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/05/24-22:35:39.094 6020 Delete type=2 #7
+2017/05/24-22:35:39.096 6020 Delete type=2 #9
+2017/05/24-22:35:39.098 6020 Delete type=2 #11
+2017/05/24-22:35:39.099 6020 Delete type=2 #13
+2017/05/24-22:35:39.103 6020 Delete type=2 #15
+2017/05/24-23:04:12.462 6020 Level-0 table #18: started
+2017/05/24-23:04:12.466 6020 Level-0 table #18: 69439 bytes OK
+2017/05/24-23:04:12.467 6020 Delete type=0 #14
+2017/05/24-23:05:16.364 6020 Level-0 table #20: started
+2017/05/24-23:05:16.380 6020 Level-0 table #20: 98914 bytes OK
+2017/05/24-23:05:16.382 6020 Delete type=0 #17
+2017/05/24-23:06:08.936 6020 Level-0 table #22: started
+2017/05/24-23:06:08.950 6020 Level-0 table #22: 129395 bytes OK
+2017/05/24-23:06:08.952 6020 Delete type=0 #19
+2017/05/24-23:08:07.406 6020 Level-0 table #24: started
+2017/05/24-23:08:07.417 6020 Level-0 table #24: 215177 bytes OK
+2017/05/24-23:08:07.418 6020 Delete type=0 #21
+2017/05/24-23:08:07.419 6020 Compacting 4@0 + 1@1 files
+2017/05/24-23:08:07.494 6020 Generated table #25@0: 615 keys, 1859002 bytes
+2017/05/24-23:08:07.494 6020 Compacted 4@0 + 1@1 files => 1859002 bytes
+2017/05/24-23:08:07.495 6020 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/05/24-23:08:07.495 6020 Delete type=2 #16
+2017/05/24-23:08:07.497 6020 Delete type=2 #18
+2017/05/24-23:08:07.497 6020 Delete type=2 #20
+2017/05/24-23:08:07.498 6020 Delete type=2 #22
+2017/05/24-23:08:07.499 6020 Delete type=2 #24
