@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { voteAngular, voteReact, voteVuejs } from './actions';
 import uuid from 'uuid';
 import $ from 'jquery';
 import logo from './logo.svg';
@@ -72,6 +73,23 @@ class App extends Component {
     let index = comments.findIndex(x => x.id === id);
     comments.splice(index, 1);
     this.setState({comments:comments});
+  }
+
+//  constructor(props) {
+//    super(props);
+//    this.store = this.props.store;
+//  }
+
+  handleVoteAngular = () => {
+    this.store.dispath(voteAngular());
+  }
+
+  handleVoteReact = () => {
+    this.store.dispath(voteReact());
+  }
+
+  handleVoteVuejs = () => {
+    this.store.dispath(voteVuejs());
   }
 
   render() {
