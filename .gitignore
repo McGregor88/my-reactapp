@@ -4,6 +4,7 @@
 /node_modules
 
 # testing
+.vscode
 /coverage
 
 # production
@@ -20,4 +21,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /nbproject/private/
-.vscode
